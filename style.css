@@ -229,7 +229,7 @@ section {
     align-items: center;
     flex-direction: column;
     color: var(--main-color);
-    transform: rotate(calc(360deg/4 * var(--i)));
+    transform: rotate(calc(360deg/5 * var(--i)));
     transform-origin: 300px;
     background: var(--bg-color);
     padding: 13px 0;
